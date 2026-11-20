@@ -15,7 +15,6 @@ This repository contains projects and experiments focused on Agentic AI and inte
 ## Key Areas
 - Agentic AI workflows
 - Multi-agent systems
-- LLM integration
 - Tool calling
 - RAG-based applications
 
